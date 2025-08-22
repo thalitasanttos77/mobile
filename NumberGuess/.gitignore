@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Arquivos de IDE e cache
+.idea/
+.kotlin/
+*.iml
+build/
+local.properties
