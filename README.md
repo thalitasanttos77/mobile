@@ -1,4 +1,4 @@
-# My Mobile Development Exercises
+# My Mobile Development Exercises (Android)
 
 This repository contains simple apps I developed to practice mobile programming.
 
