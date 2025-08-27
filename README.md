@@ -9,6 +9,7 @@ This repository contains simple apps I developed to practice mobile programming.
 * **Number Guess:** A number guessing game.
 * **Temp Calc:** A calculator to convert temperatures.
 * **BBQ Calc:** Calculates the amount of items for a barbecue.
+* **Tip Calc:** A calculator that determines the tip amount based on the total bill and a selected percentage.
 
 ### How to Use
 
